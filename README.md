@@ -1,7 +1,8 @@
 # FamousBros-Faithful-Venom
 ~~~
 Old School Faithful Textures, Antvenoms style of pack, with Custom textures for my datapacks.
-(Skitscapes UI, mostly pre 1.13 Faithful Block and item textures, and textures for my Raijin and Mark/Recall Datapacks)
+(Skitscape UI, pre 1.14 Faithful Block and Item textures, and textures for my Raijin and Mark/Recall Datapacks)
+(My added datapack Textures will not affect Vanilla textutres.)
 
 Credit: Faithful Team
 They developed 99.9% of the textures in this file.
