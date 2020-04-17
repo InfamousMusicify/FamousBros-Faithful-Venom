@@ -18,6 +18,8 @@ and misses antvenoms Faithful pack being updated regularly.
 I likely wont update this very much.  
 Mostly during new minecraft releases to catch up with textures.  or when I update my datapack textures.
 
+Please report any issues in the github issues section!  I will make an effort to fix any errors.
+
 Thank you for checking out the pack!
 
 Cheers
