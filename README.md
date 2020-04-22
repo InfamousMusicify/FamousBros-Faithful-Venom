@@ -21,6 +21,10 @@ Mostly during new minecraft releases to catch up with textures.  or when I updat
 Please report any issues in the github issues section!  I will make an effort to fix any errors.
 
 Thank you for checking out the pack!
+~~~
+Check out the Beta-Testing Server!
+https://www.minecraftforum.net/forums/servers-java-edition/pc-servers/2988894-famousbros-server-vanilla-survival-java-edition
+Apply for the server here! http://tinyurl.com/FamousBrosApp
 
 Cheers
 - Infamous
