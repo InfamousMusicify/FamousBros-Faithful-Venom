@@ -24,7 +24,8 @@ Thank you for checking out the pack!
 ~~~
 Check out the Beta-Testing Server!
 https://www.minecraftforum.net/forums/servers-java-edition/pc-servers/2988894-famousbros-server-vanilla-survival-java-edition
-Apply for the server here! http://tinyurl.com/FamousBrosApp
 
+Apply for the server here! http://tinyurl.com/FamousBrosApp
+~~~
 Cheers
 - Infamous
