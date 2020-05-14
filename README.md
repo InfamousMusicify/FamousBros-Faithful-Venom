@@ -6,7 +6,7 @@ Old School Faithful Textures, Antvenoms Color Grading, Skitscape's UI, with Cust
 
 Credit: Faithful Team
 They developed 99.9% of the textures in this file.
-They do Beutiful Work and you should give them some love!  
+They do Beautiful Work and you should give them some love!  
 ~~~
 https://faithful.team/
 ~~~
