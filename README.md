@@ -22,8 +22,11 @@ Please report any issues in the github issues section!  I will make an effort to
 
 Thank you for checking out the pack!
 ~~~
+How to Install The Pack:
+https://youtu.be/gxeGCGpJq7A
+
 Check out the Beta-Testing Server!
-https://www.minecraftforum.net/forums/servers-java-edition/pc-servers/2988894-famousbros-server-vanilla-survival-java-edition
+https://tinyurl.com/FBSMCForum
 
 Apply for the server here! http://tinyurl.com/FamousBrosApp
 ~~~
