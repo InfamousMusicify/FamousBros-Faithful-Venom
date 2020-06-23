@@ -15,6 +15,9 @@ I made this resource pack for myself as a Composite of the Textures/UI and some 
 Released it publicly because I know I'm not the only one who doesnt like the new faithful textures.
 And misses Antvenom's Faithful pack being updated more regularly.
 
+Click "FB-FV x32 1.x.x Vx.x" and then click download.
+Paste the datapack into your .minecraft/resourcepacks folder.
+
 I likely wont update this very much.  
 Mostly during new minecraft releases to catch up with textures.  or when I update my datapack textures.
 
