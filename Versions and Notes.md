@@ -8,6 +8,7 @@ Removed a few older useless things.  Updated mobs and blocks of 1.16.
 Tweaked: Nylium of both varieties, made it fit with the OG netherrack texture better.
 Nether_gold_ore/Nether_quartz_ore, Tweaked to fit with OG Netherrack.
 Nether_quartz_ore Restylized with new faithful style but OG netherrack Textures.
+Known Vanilla Issue: Trident Occasionally looks like its ripping thru the fabric of space-time as it flys.
 (Release candidate has been tested very little, please report any issues on github issue tracker! <3)
 ~~~
  #
