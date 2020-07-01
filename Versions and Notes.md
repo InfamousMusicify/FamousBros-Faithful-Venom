@@ -10,6 +10,11 @@ Nether_gold_ore/Nether_quartz_ore, Tweaked to fit with OG Netherrack.
 Nether_quartz_ore Restylized with new faithful style but OG netherrack Textures.
 Known Vanilla Issue: Trident Occasionally looks like its ripping thru the fabric of space-time as it flys.
 (Release candidate has been tested very little, please report any issues on github issue tracker! <3)
+
+     Release Candidate 1: (Rc-1)
+Essentially Rc-2 but with 1 extra file which probably doesn't do anythhing.
+Contains a file that supposedly corrects the tridents twitchy behaviour, but this file may be outdated,
+at any rate its available for download should you deem it to be less twitchy with this tweak.
 ~~~
  #
 ~~~
