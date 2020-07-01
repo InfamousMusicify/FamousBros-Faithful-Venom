@@ -1,7 +1,8 @@
 Version History and Notes:
 ~~~
 Minecraft 1.16: 
-     Release Candidate 2: (Rc-2)
+     Release Candidate 2: (Rc-2) 
+     (at this point the pack became to large, switched to dropbox for file hosting.)
 Added Textures for 1.16.  Tweaked a few faithful textures more to my own liking(for faithfulness to OG textures.)
 Added Proper 32x Banner Textures.  (TY to the faithful team for fixing those up!<3)
 Removed a few older useless things.  Updated mobs and blocks of 1.16.
