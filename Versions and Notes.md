@@ -1,4 +1,4 @@
-Version History and Notes:
+# Version History and Notes:
 ~~~
 Minecraft 1.16: 
 
@@ -38,5 +38,3 @@ Fixed Squid/Bat Spawn egg textures.
      Version 1.0:
 First release, had 2 broken textures.
 ~~~
- # # # 
- 
