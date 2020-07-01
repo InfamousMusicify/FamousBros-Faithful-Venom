@@ -1,6 +1,10 @@
 Version History and Notes:
 ~~~
 Minecraft 1.16: 
+
+     Realease Candidate 3: (Rc-3)
+Removed extra font files to improve experience for users who do not mainly speak english in game.
+
      Release Candidate 2: (Rc-2) 
      (at this point the pack became to large, switched to dropbox for file hosting.)
 Added Textures for 1.16.  Tweaked a few faithful textures more to my own liking(for faithfulness to OG textures.)
