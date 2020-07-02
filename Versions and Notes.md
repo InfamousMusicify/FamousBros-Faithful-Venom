@@ -1,7 +1,12 @@
 # Version History and Notes:
 ~~~
 Minecraft 1.16: 
-     Release Candidate 6:
+
+     Release Candidate 7: (Rc-7)
+Fixed Mushrooms block textures.  fixed a few other textures.
+If this candidate doesnt present any problems it will most likely be the release version!
+
+     Release Candidate 6: (Rc-6)
 Fixed Crimson Trapdoor visual error.  updated all trapdoors backend code.
 Added Nether Quartz Ore rotation textures.
 
