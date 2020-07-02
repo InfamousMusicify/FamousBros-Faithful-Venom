@@ -6,10 +6,7 @@
 Rc-8:
 ~~~
 https://www.dropbox.com/s/ezf43e5v0uwtwj9/FB-FV%20x32%201.16%20%20Rc-8.zip?dl=0
-~~~
-Rc-7:
-~~~
-https://www.dropbox.com/s/02byjl8vjtyx2ja/FB-FV%20x32%201.16%20%20Rc-7.zip?dl=0
+
 ~~~
 Rc-3:
 ~~~
