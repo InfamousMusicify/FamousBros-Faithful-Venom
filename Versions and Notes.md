@@ -1,6 +1,10 @@
 # Version History and Notes:
 ~~~
-Minecraft 1.16: 
+Minecraft 1.16-1.16.1: 
+
+     Release candidate 8: (Rc-8)
+Developer made an error in Rc-7 when zipping the file.  Rc-8 Is the true Rc-7.
+Fixed oxeye daisies and probably some other flowers and mushrooms.
 
      Release Candidate 7: (Rc-7)
 Fixed Mushrooms block textures.  fixed a few other textures.
@@ -31,7 +35,7 @@ at any rate its available for download should you deem it to be less twitchy wit
 ~~~
  #
 ~~~
-Minecraft 1.15:
+Minecraft 1.15.x:
      Version 1.6.3:
 Switched from Light UI to Drak UI Textures, Custom Dark UI Textures.  (Props to the faithful team member "Ozzymand") 
 Added a few missing antvenom tweaks, Fonts, Optifine files, GUI Textures.
