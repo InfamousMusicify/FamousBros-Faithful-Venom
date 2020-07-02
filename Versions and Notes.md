@@ -1,6 +1,9 @@
 # Version History and Notes:
 ~~~
 Minecraft 1.16: 
+     Release Candidate 6:
+Fixed Crimson Trapdoor visual error.  updated all trapdoors backend code.
+Added Nether Quartz Ore rotation textures.
 
      Realease Candidate 3: (Rc-3)
 Removed extra font files to improve experience for users who do not mainly speak english in game.
