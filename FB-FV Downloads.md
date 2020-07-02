@@ -3,9 +3,9 @@
 # Minecraft 1.16:
 
 ~~~
-Rc-6:
+Rc-7:
 ~~~
-https://www.dropbox.com/s/a1y57b5puxu6x4e/FB-FV%20x32%201.16%20%20Rc-6.zip?dl=0
+https://www.dropbox.com/s/02byjl8vjtyx2ja/FB-FV%20x32%201.16%20%20Rc-7.zip?dl=0
 ~~~
 Rc-3:
 ~~~
