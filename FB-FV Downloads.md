@@ -1,7 +1,11 @@
 # Pack Download Links:
 
-# Minecraft 1.16:
+# Minecraft 1.16 - 1.16.1:
 
+~~~
+Rc-8:
+~~~
+https://www.dropbox.com/s/ezf43e5v0uwtwj9/FB-FV%20x32%201.16%20%20Rc-8.zip?dl=0
 ~~~
 Rc-7:
 ~~~
@@ -19,7 +23,7 @@ Rc-1:
 ~~~
 https://www.dropbox.com/s/r9j35kvg0s0asdx/FB-FV%20x32%201.16%20%20Rc-1%20V1.6.4.zip?dl=0
 
-# Minecraft 1.15:
+# Minecraft 1.15.x:
 ~~~
 V1.6.3:
 ~~~
