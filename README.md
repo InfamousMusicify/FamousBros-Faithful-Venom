@@ -11,12 +11,12 @@ They do Beautiful Work and you should give them some love!
 https://faithful.team/
 ~~~
 
+Click "FB-FV Downloads.md" and then click the link to the version of the pack you wish to download.
+Paste the Resource Pack into your .minecraft/resourcepacks folder.
+
 I made this resource pack for myself as a Composite of the Textures/UI and some custom stuff for my datapacks.
 Released it publicly because I know I'm not the only one who doesnt like the new faithful textures.
 And misses Antvenom's Faithful pack being updated more regularly.
-
-Click "FB-FV Downloads.md" and then click the link to the version of the pack you wish to download.
-Paste the Resource Pack into your .minecraft/resourcepacks folder.
 
 I likely wont update this very much.  
 Mostly during new minecraft releases to catch up with textures.  or when I update my datapack textures.
