@@ -2,6 +2,10 @@
 ~~~
 Minecraft 1.16-1.16.1: 
 
+     Release 2: (R-2)
+Added Custom Title Screen Background.
+(the new school faithful textures seemed off on the titlescreen using my pack, which uses old school faithful textures.)
+
      Release 1: (R-1)
 Removed some uneccassary texture files and json files, tweaked UI files to look more consistent.
 Play tested on multiple occasions.
