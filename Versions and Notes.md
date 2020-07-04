@@ -2,6 +2,10 @@
 ~~~
 Minecraft 1.16-1.16.1: 
 
+     Release 1: (R-1)
+Removed some uneccassary texture files and json files, tweaked UI files to look more consistent.
+Play tested on multiple occasions.
+
      Release candidate 8: (Rc-8)
 Developer made an error in Rc-7 when zipping the file.  Rc-8 Is the true Rc-7.
 Fixed oxeye daisies and probably some other flowers and mushrooms.
