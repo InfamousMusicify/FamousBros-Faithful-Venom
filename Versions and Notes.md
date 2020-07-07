@@ -2,6 +2,11 @@
 ~~~
 Minecraft 1.16-1.16.1: 
 
+     Release 3: (R-3)
+Updated Custom Title Screen Background.
+Checked Latest Official faithful release for optifine changes, checked for extra files in pack to trim down file size, Merged changes.
+Optifine should work seemlessly.  There is a slightly longer load time when loading textures with optifine.
+
      Release 2: (R-2)
 Added Custom Title Screen Background.
 (the new school faithful textures seemed off on the titlescreen using my pack, which uses old school faithful textures.)
