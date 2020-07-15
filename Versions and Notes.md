@@ -2,6 +2,12 @@
 ~~~
 Minecraft 1.16-1.16.1: 
 
+     Release 4: (R-4)
+Updated Custom Title Screen Background, again. (Fixed ghast, more warped nylium)
+Removed unneccassary optifine ctm files.
+Fixed connected glass textures to be OG faithful instead of modern faithful.
+(Most likely final release before 1.16.2)
+
      Release 3: (R-3)
 Updated Custom Title Screen Background.
 Checked Latest Official faithful release for optifine changes, checked for extra files in pack to trim down file size, Merged changes.
