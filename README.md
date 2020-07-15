@@ -1,7 +1,7 @@
 # FamousBros-Faithful-Venom
 
 Old School Faithful Style Textures, Antvenoms Color Grading, Skitscape's UI.  
-(Skitscape UI, pre 1.14 Faithful block and item textures, a few alpha sounds, and 7 item textures for my Raijin and Mark/Recall Datapacks)  
+(Skitscape UI, pre 1.13 Faithful block and item textures, a few alpha sounds, and 7 item textures for my Raijin and Mark/Recall Datapacks)  
 (My added datapack Textures will not affect Vanilla textutres.)  
 
 #  
