@@ -1,6 +1,6 @@
 # Version History and Notes:
-~~~
-Minecraft 1.16-1.16.1: 
+
+# Minecraft 1.16-1.16.1: 
 
      Release 4: (R-4)
 Updated Custom Title Screen Background, again. (Fixed ghast, more warped nylium)
@@ -51,10 +51,9 @@ Known Vanilla Issue: Trident Occasionally looks like its ripping thru the fabric
 Essentially Rc-2 but with 1 extra file which probably doesn't do anythhing.
 Contains a file that supposedly corrects the tridents twitchy behaviour, but this file may be outdated,
 at any rate its available for download should you deem it to be less twitchy with this tweak.
-~~~
- #
-~~~
-Minecraft 1.15.x:
+
+# Minecraft 1.15.x:
+
      Version 1.6.3:
 Switched from Light UI to Drak UI Textures, Custom Dark UI Textures.  (Props to the faithful team member "Ozzymand") 
 Added a few missing antvenom tweaks, Fonts, Optifine files, GUI Textures.
@@ -68,4 +67,4 @@ Fixed Squid/Bat Spawn egg textures.
 
      Version 1.0:
 First release, had 2 broken textures.
-~~~
+
