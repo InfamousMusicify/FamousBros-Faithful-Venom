@@ -1,6 +1,11 @@
 # Pack Download Links:
 
 # Minecraft 1.16.2:
+
+~~~
+Release 1:
+~~~
+https://www.dropbox.com/s/u6jnabb1lwqywlp/FB-FV%20x32%201.16.2%20%20R-1.zip?dl=0
 ~~~
 Pre-Release 1:
 ~~~
