@@ -4,7 +4,6 @@
 
 
      Release 1: (R-1)
-
 Changed: (in GUI)
 Recipe Button (Infamous)(tweaked colors)
 Crafting Table (Infamous)(tweaked colors for recipe button)
@@ -12,8 +11,8 @@ Inventory (Infamous)(tweaked colors for recipe button)
 
 Removed: Extra files
 
+
      Pre-Release 1: (Pr-1)
-     
 Added: (from new faithful updates)
 Fungi CTM (@Nyodex)
 Gamemode Switcher (@Pomik108)
@@ -39,6 +38,7 @@ Hoglin [Fixed Tusk] (@Seirin-Blu)
 Netherite Armor [Tweaked Color] (@Pomik108)
 Netherite Boots [Item] (@Tekayo)
 Resource Pack Selection GUI (@Spherey)
+
 
 # Minecraft 1.16-1.16.1: 
      Release 4: (R-4)
