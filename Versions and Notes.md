@@ -4,40 +4,40 @@
 
 
      Release 1: (R-1)
-Changed: (in GUI)
-Recipe Button (Infamous)(tweaked colors)
-Crafting Table (Infamous)(tweaked colors for recipe button)
-Inventory (Infamous)(tweaked colors for recipe button)
-
-Removed: Extra files
+Changed: (in GUI)  
+Recipe Button (Infamous)(tweaked colors)  
+Crafting Table (Infamous)(tweaked colors for recipe button)  
+Inventory (Infamous)(tweaked colors for recipe button)  
+  
+Removed: Extra files  
 
 
      Pre-Release 1: (Pr-1)
-Added: (from new faithful updates)
-Fungi CTM (@Nyodex)
-Gamemode Switcher (@Pomik108)
-Piglin Brute (@Terrifik & @Seirin-Blu)
-
-Updated: (with new faithful team updates.)
-Accented Text (@RobertR11)
-Ascii Text (@RobertR11)
-Non-Latin European Text (@Seirin-Blu & @RobertR11)
-Shield Banner Patterns (@Azure & @Seirin-Blu)
-Torch [Item] (@Unknown)
-Warped Fungus on a Stick (@Seirin-Blu)
-Soul Campfire [Tweaked Pixel] (@CLtheman1)
-Warped Stem [Tweaked Pixel] (@CLtheman1)
-Trapdoor Sides (@Juknum)
-Zoglin [Fixed Tusk] (@Seirin-Blu)
-Basalt [Made Texture Cleaner] (@Tekayo)
-Blackstone Bricks (@Terrifik)
-Chisled Polished Blackstone (@Terrifik)
-Cracked Blackstone Bricks (@Terrifik)
-Crimson Stem [Tweaked Pixel] (@CLtheman1)
-Hoglin [Fixed Tusk] (@Seirin-Blu)
-Netherite Armor [Tweaked Color] (@Pomik108)
-Netherite Boots [Item] (@Tekayo)
-Resource Pack Selection GUI (@Spherey)
+Added: (from new faithful updates)  
+Fungi CTM (@Nyodex)  
+Gamemode Switcher (@Pomik108)  
+Piglin Brute (@Terrifik & @Seirin-Blu)  
+  
+Updated: (with new faithful team updates.)  
+Accented Text (@RobertR11)  
+Ascii Text (@RobertR11)  
+Non-Latin European Text (@Seirin-Blu & @RobertR11)  
+Shield Banner Patterns (@Azure & @Seirin-Blu)  
+Torch [Item] (@Unknown)  
+Warped Fungus on a Stick (@Seirin-Blu)  
+Soul Campfire [Tweaked Pixel] (@CLtheman1)  
+Warped Stem [Tweaked Pixel] (@CLtheman1)  
+Trapdoor Sides (@Juknum)  
+Zoglin [Fixed Tusk] (@Seirin-Blu)  
+Basalt [Made Texture Cleaner] (@Tekayo)  
+Blackstone Bricks (@Terrifik)  
+Chisled Polished Blackstone (@Terrifik)  
+Cracked Blackstone Bricks (@Terrifik)  
+Crimson Stem [Tweaked Pixel] (@CLtheman1)  
+Hoglin [Fixed Tusk] (@Seirin-Blu)  
+Netherite Armor [Tweaked Color] (@Pomik108)  
+Netherite Boots [Item] (@Tekayo)  
+Resource Pack Selection GUI (@Spherey)  
 
 
 # Minecraft 1.16-1.16.1: 
