@@ -1,6 +1,17 @@
 # Version History and Notes:
 
 # Minecraft 1.16.2: 
+
+
+     Release 1: (R-1)
+
+Changed: (in GUI)
+Recipe Button (Infamous)(tweaked colors)
+Crafting Table (Infamous)(tweaked colors for recipe button)
+Inventory (Infamous)(tweaked colors for recipe button)
+
+Removed: Extra files
+
      Pre-Release 1: (Pr-1)
      
 Added: (from new faithful updates)
