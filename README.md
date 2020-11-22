@@ -1,4 +1,5 @@
-# FamousBros-Faithful-Venom
+# FamousBros-Faithful-Venom-32x
+#### This is a 32x resource pack.
 Old School Faithful Style Textures/Sounds, Antvenoms Color Grading, Skitscape's UI.  
 (Skitscape UI, pre 1.13 Faithful textures, a few alpha sounds, and 7 textures for my Datapacks)  
 (My added datapack Textures will not affect Vanilla textutres.)  
