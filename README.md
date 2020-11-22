@@ -22,11 +22,12 @@ Thank you for checking out the pack!
 How to Install The Pack:  
 https://youtu.be/gxeGCGpJq7A  
 
-Check out the Beta-Testing Server!  
+Check out the SMP/ Beta-Testing Server!  
 https://tinyurl.com/FBSMCForum  
 
+Join us if you are a skilled technical player or streamer!  (help us develope/test our packs!) 
 ## [Apply for our Server whitelist](http://tinyurl.com/FamousBrosApp)  
-Join our server if you are a skilled technical player or streamer!  (help us develope/test our packs!)  
+ 
 
 ~~Old Download/Install mini tutorial:  Click "FB-FV Downloads.md" and then click the link to the version of the pack you wish to download.
 Paste the Resource Pack into your .minecraft/resourcepacks folder.~~
