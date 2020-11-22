@@ -32,6 +32,10 @@ Apply for the server here! http://tinyurl.com/FamousBrosApp
 ~~Old Download/Install mini tutorial:  Click "FB-FV Downloads.md" and then click the link to the version of the pack you wish to download.
 Paste the Resource Pack into your .minecraft/resourcepacks folder.~~
 
+
+Disclaimer:
+Faithful team does not allow there pack to be redistributed freely, I went and got permission from the team to create and share this pack with the public.  With the intent to share nostalgic textures/sounds with all.  I will take the pack down if the team requests it.
+
 Cheers
 
 - Infamous
