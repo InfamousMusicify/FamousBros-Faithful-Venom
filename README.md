@@ -29,10 +29,8 @@ https://tinyurl.com/FBSMCForum
 
 Apply for the server here! http://tinyurl.com/FamousBrosApp  
 
-~~Old Download/Install mini tutorial:  
-Click "FB-FV Downloads.md" and then click the link to the version of the pack you wish to download.
+Old Download/Install mini tutorial:  Click "FB-FV Downloads.md" and then click the link to the version of the pack you wish to download.
 Paste the Resource Pack into your .minecraft/resourcepacks folder.
-~~
 
 Cheers
 
