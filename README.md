@@ -19,19 +19,12 @@ Mostly during new minecraft releases to catch up with textures.  or when I updat
 Please report any issues in the github issues section!  I will make an effort to fix any errors.  
 Thank you for checking out the pack!  
 ~~~
-How to Install The Pack:  
-https://youtu.be/gxeGCGpJq7A  
+#### [How to Install Resource Packs](https://youtu.be/gxeGCGpJq7A)  
 
-Check out the SMP/ Beta-Testing Server!  
-https://tinyurl.com/FBSMCForum  
-
-Join us if you are a skilled technical player or streamer!  (help us develope/test our packs!) 
-## [Apply for our Server whitelist](http://tinyurl.com/FamousBrosApp)  
+#### [Check out our SMP / Beta-Testing Server!](https://tinyurl.com/FBSMCForum)  
  
-
 ~~Old Download/Install mini tutorial:  Click "FB-FV Downloads.md" and then click the link to the version of the pack you wish to download.
 Paste the Resource Pack into your .minecraft/resourcepacks folder.~~
-
 ~~~
   Disclaimer:
 Faithful team does not allow their pack to be redistributed freely,  
