@@ -105,7 +105,7 @@ Essentially Rc-2 but with 1 extra file which probably doesn't do anythhing.
 Contains a file that supposedly corrects the tridents twitchy behaviour, but this file may be outdated,  
 at any rate its available for download should you deem it to be less twitchy with this tweak.  
 
-# Minecraft 1.15.x:
+# Minecraft 1.14-1.15.2:
      1.15.2 Version 1.6.3:
 Switched from Light UI to Drak UI Textures, Custom Dark UI Textures.  (Props to the faithful team member "Ozzymand")  
 Added a few missing antvenom tweaks, Fonts, Optifine files, GUI Textures.  
