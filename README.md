@@ -1,16 +1,14 @@
 # FamousBros-Faithful-Venom
-
-Old School Faithful Style Textures, Antvenoms Color Grading, Skitscape's UI.  
-(Skitscape UI, pre 1.13 Faithful block and item textures, a few alpha sounds, and 7 item textures for my Raijin and Mark/Recall Datapacks)  
+Old School Faithful Style Textures/Sounds, Antvenoms Color Grading, Skitscape's UI.  
+(Skitscape UI, pre 1.13 Faithful textures, a few alpha sounds, and 7 textures for my Datapacks)  
 (My added datapack Textures will not affect Vanilla textutres.)  
-
 #  
 Credit: Faithful Team  
 They developed 99.9% of the textures in this file.  
 They do Beautiful Work and you should give them some love!  
 https://faithful.team/  
 
-# [Download Pack](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/blob/master/FB-FV%20Downloads.md)
+# [Download FB_FV_32x](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/blob/master/FB-FV%20Downloads.md)
 
 I made this resource pack for myself as a Composite of the Textures/UI and some custom stuff for my datapacks.  
 Released it publicly because I know I'm not the only one who doesnt like the new minecraft art style. (1.13 and later)  
@@ -27,7 +25,8 @@ https://youtu.be/gxeGCGpJq7A
 Check out the Beta-Testing Server!  
 https://tinyurl.com/FBSMCForum  
 
-Apply for the server here! http://tinyurl.com/FamousBrosApp  
+## [Apply for our Server whitelist](http://tinyurl.com/FamousBrosApp)  
+Join our server if you are a skilled technical player or streamer!  (help us develope/test our packs!)  
 
 ~~Old Download/Install mini tutorial:  Click "FB-FV Downloads.md" and then click the link to the version of the pack you wish to download.
 Paste the Resource Pack into your .minecraft/resourcepacks folder.~~
