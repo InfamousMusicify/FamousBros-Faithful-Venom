@@ -6,6 +6,6 @@
 
 # Minecraft 1.15-1.15.2:
 1.15.2 V1.6.3:
-[FB FV x32 1.15.2 V1.6.3](https://www.dropbox.com/s/eazlwyf3oc3ea5t/FB-FV%20x32%201.15.2%20%20V1.6.3.zip?dl=0)
+[FB FV x32 1.15.2 V1.6.3](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/tag/1.15.x)
  
  
