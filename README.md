@@ -34,7 +34,8 @@ Paste the Resource Pack into your .minecraft/resourcepacks folder.~~
 
 ~~~
   Disclaimer:
-Faithful team does not allow their pack to be redistributed freely, I went and got permission from the team to create and share this pack with the public.  
+Faithful team does not allow their pack to be redistributed freely,  
+I went and got permission from the team to create and share this pack with the public.  
 With the intent to share nostalgic textures/sounds with all.  
 I will take the pack down if the team requests it.  
 ~~~
