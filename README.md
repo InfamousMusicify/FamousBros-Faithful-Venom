@@ -7,7 +7,7 @@ They developed 99.9% of the textures in this file.
 They do Beautiful Work and you should give them some love!__  
 https://faithful.team/   
 
-## [Navigate to the Release page to download the pack.](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases)
+## [Navigate to the Releases page to download the pack.](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases)
 
 ~~~
 I likely wont update this very much.  
