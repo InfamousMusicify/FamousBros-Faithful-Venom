@@ -9,7 +9,7 @@ They developed 99.9% of the textures in this file.
 They do Beautiful Work and you should give them some love!  
 https://faithful.team/  
 
-# [Download FB_FV_32x](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/blob/master/FB-FV%20Downloads.md)
+### [Navigate to the Release page to download the pack.](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases)
 
 I made this resource pack for myself as a Composite of the Textures/UI and some custom stuff for my datapacks.  
 Released it publicly because I know I'm not the only one who doesnt like the new minecraft art style. (1.13 and later)  
