@@ -1,5 +1,10 @@
 # Version History and Notes:
 # Minecraft 1.17-1.17.x:
+### 1.17 Pre-Release 2: (Pr-2)
+Added:  
+     
+     Chakra texture (@Infamous)
+
 ### 1.17 Pre-Release 1: (Pr-1)
 Added/Changed:    
 
