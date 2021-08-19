@@ -1,0 +1,12 @@
+{
+    "parent": "item/template_spawn_egg",
+    "textures": {
+    "layer0": "item/spawn_egg"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/bat_spawn_egg/1"},
+		{"predicate": {"custom_model_data":2}, "model": "item/bat_spawn_egg/2"},
+		{"predicate": {"custom_model_data":3}, "model": "item/bat_spawn_egg/3"}
+	]
+}
