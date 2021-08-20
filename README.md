@@ -1,7 +1,7 @@
 # [FamousBros Faithful Venom 32x 🎥](https://youtube.com/gxeGCGpJq7A)  
 ### ___Bring Old School Faithful textures back.___
 
-__Old School Faithful Style Textures, Antvenoms Color Grading and alpha sounds, Skitscape's UI.__    
+__Old School Faithful Style Textures, Antvenoms Color Grading and alpha sounds, Skitscapes UI.__    
 
 __Credit: [Faithful Team](https://faithful.team/)  
 They developed 99.9% of the textures in this file.  
