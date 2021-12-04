@@ -4,12 +4,6 @@ Q: What does the pack change?
 A: It uses all the 1.12 Faithful textures, most of the newer 1.13-1.16+ Faithful block/item textures/ Dark UI,
 Antvenoms swamp color grade/ old school sounds/ exp bar, Skitscapes UI.
 
-I: There are a few missing textures in the sheild banner textures as no one on the faithful team has updated them yet.
-(shields are fine but the applied banner textures arent yet updated)
-I: There are also a few missing textures for the Netherrack as I couldnt figure out why they were breaking.
-They do not effect the overall visuals tho, its just a directional texture thing, netherrack looks normal.
-(they looked bad anyways so...)
-
 I: There are a few Custom remade textures: nylium of both varieties, 
 nether_gold_ore and nether_quartz_ore have all been customized to fit this packs asthetic.
 
