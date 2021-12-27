@@ -3,10 +3,19 @@
 
 __Old School Faithful Style Textures, Antvenoms Color Grading and alpha sounds, Skitscapes UI/Dark UI.__    
 
-__Credit: [Faithful Team](https://faithful.team/)  
+# This Pack is Discontinued until further notice.
+## [Vattic](https://twitter.com/Vattic) has [returned](https://youtu.be/kgZYBTlwaVs)!
+### Check out [Compliance](https://compliancepack.net/), [Emulated Vattic](https://github.com/emulatedvattic), [mullak99](https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x), and [Antvenom](https://antvenom.com/files)'s packs for a visual experience along these lines.
+
+
+
+
+Null Below
+<s>
+  
+__Credit: Faithful Team 
 They developed 99.9% of the textures in this file.  
-They do Beautiful Work and you should give them some love!__  
-https://faithful.team/   
+They do Beautiful Work and you should give them some love!__   
 
 ## [Navigate to the Releases page to download the pack.](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases)
 
@@ -33,7 +42,7 @@ I made this pack for myself as a composite of the textures/UI and some custom te
 I dislike the new minecraft art style (I know I'm not alone there... 1.13 and later).  
 And miss Antvenom's Faithful pack being updated more regularly.  
 I am glad I can share this with you <3 I hope you enjoy!    
-
+</s>
 Cheers  
 
 - Infamous  
