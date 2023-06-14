@@ -29,7 +29,7 @@ It adds Skits UI / Dark UI, Antvenoms grass color grading, select alpha sounds f
 
 __Note: All Versions before and including `FB-FV 1.18 R4` contain a full texture set and are not recomended for use.      
 It is recomended that you use ant or mullak's packs alongside a newer version of FB-FV with a version number,        
-example: `FB-FV-1.0.0_1.19`__        
+example: `FB-FV_1.19.2-r1`__        
 
 __Credit: Vattic, mullak99, Antvenom, Skitscape       
 They developed Many of the textures in this file.     
