@@ -1,48 +1,46 @@
 # [FamousBros Faithful Venom 32x 🎥](https://youtube.com/gxeGCGpJq7A)  
 ### ___Bring Old School Faithful textures back.___
-
 __Old School Faithful Style Textures, Antvenoms Color Grading and alpha sounds, Skitscapes UI/Dark UI.__    
 
-# This Pack is Discontinued until further notice.
-## [Vattic](https://twitter.com/Vattic) has [returned](https://youtu.be/kgZYBTlwaVs)!
-### Check out [Compliance](https://compliancepack.net/), [Emulated Vattic](https://github.com/emulatedvattic), [mullak99](https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x), and [Antvenom](https://antvenom.com/files)'s packs for a visual experience along these lines.
-
-
-
-
-Null Below
-<s>
-  
-__Credit: Faithful Team 
-They developed 99.9% of the textures in this file.  
-They do Beautiful Work and you should give them some love!__   
-
 ## [Navigate to the Releases page to download the pack.](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases)
-
-__[How to Install Resource Packs](https://youtu.be/gxeGCGpJq7A)__   
+### Download one of these resource packs as well:  
+### [Antvenom](https://antvenom.com/files)   
+### [mullak99](https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x)   
+### [Compliance](https://compliancepack.net/)   
+### [Emulated Vattic](https://github.com/emulatedvattic)   
+## [How to Install Resource Packs](https://youtu.be/gxeGCGpJq7A)   
 
 ~~~  
-                                        This is a 32x resource pack 
-(Pre 1.13 Faithful textures, Skitscape UI, a few alpha sounds, and a few textures I tweaked for consistency)  
+                                        This is a 32x resource pack    
+(Dark / Skitscape UI, a few alpha sounds, and a few textures I tweaked for consistency with old mc art style)     
 ~~~
 
-__Updates usually occur slightly after new Minecraft releases.  
-Please report any issues in the github issues section!  I will make an effort to fix any errors.  
-Thank you for checking out the pack!__  
+The original intent of this pack was to tweak antvenoms faithful venom pack more to my liking, and for my server.       
+It still accomplishes its goal, but you must download ant or mullaks pack now as well.  I do not have time to check a whole pack anymore.       
 
-~~~
-Disclaimer:
-Faithful team does not allow their pack to be redistributed freely,    
-I went and got permission from the team to create and share this pack with the public.  
-With the intent to share nostalgic textures/sounds with all.  
-I will take the pack down if the team requests it.  
-~~~
+When I originally obtained permission to use the faithful textures      
+I was unaware of the debacle with Vattics work being stolen. (see deprecated branch for info)       
 
-I made this pack for myself as a composite of the textures/UI and some custom textures.  
-I dislike the new minecraft art style (I know I'm not alone there... 1.13 and later).  
-And miss Antvenom's Faithful pack being updated more regularly.  
-I am glad I can share this with you <3 I hope you enjoy!    
-</s>
+The folks who put together Antvenoms newest packs were gracious enough to include a license       
+to use the textures for a project like this, so I did use a few and added credit and Vattic's license.     
+
+This project is now a stripped down addon to Antvenom or mullak99's (or any vanilla 32x pack really) Resource packs.     
+It adds Skits UI / Dark UI, Antvenoms grass color grading, select alpha sounds for nostalgia, custon nylium sides,    
+
+__Note: All Versions before and including `FB-FV 1.18 R4` contain a full texture set and are not recomended for use.      
+It is recomended that you use ant or mullak's packs alongside a newer version of FB-FV with a version number,        
+example: `FB-FV-1.0.0_1.19`__        
+
+__Credit: Vattic, mullak99, Antvenom, Skitscape       
+They developed Many of the textures in this file.     
+They do solid work and you should give them some love!__     
+
+__Updates usually occur slightly after new Minecraft releases.      
+Please report any issues in the github issues section!  I will make an effort to fix any errors.     
+Thank you for checking out the pack!__     
+
+I am glad I can share this with you <3 I hope you enjoy!       
+
 Cheers  
 
 - Infamous  
