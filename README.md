@@ -2,7 +2,7 @@
 ### ___Bring Old School Faithful textures back.___
 __Old School Faithful Style Textures, Antvenoms Color Grading and alpha sounds, Skitscapes UI/Dark UI.__    
 
-## [Navigate to the Releases page to download the pack.](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases)
+# [🔗Downloads🔗](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases)
 ### Download one of these resource packs as well:  
 ### [Antvenom](https://antvenom.com/files)   
 ### [mullak99](https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x)   
