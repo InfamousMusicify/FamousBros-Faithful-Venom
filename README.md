@@ -6,9 +6,11 @@ __Old School Faithful Style Textures, Antvenoms Color Grading and alpha sounds, 
 ### Download one of these resource packs as well:  
 ### [Antvenom](https://antvenom.com/files)   
 ### [mullak99](https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x)   
-### [Compliance](https://compliancepack.net/)   
-### [Emulated Vattic](https://github.com/emulatedvattic)   
-## [How to Install Resource Packs](https://youtu.be/gxeGCGpJq7A)   
+
+#### [classicfaithful](https://github.com/classicfaithful)   
+#### [Compliance](https://compliancepack.net/)   
+#### [Emulated Vattic](https://github.com/emulatedvattic)   
+## [How to Install Resource Packs](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack)   
 
 ~~~  
                                         This is a 32x resource pack    
