@@ -19,6 +19,18 @@ This Pack is essentially an Tweaked and stripped down Faithful Venom pack from A
 (Antvenom recently updated his pack but it removes a few features I like.  So I use this on top of it.)   
 
 
+
+Authors Note:   
+The original intent of this pack was to make an updated version of/tweak antvenoms faithful venom pack more to my liking, and for my server.       
+It still accomplishes its goal, but you must download ant or mullaks pack now as well.  
+I do not have time to check a whole pack for errors anymore. Or do more crediting than neccassary due to extra unneeded textures.            
+
+When I originally obtained permission to use the faithful textures      
+I was unaware of the debacle with Vattics work being stolen. (see deprecated branch for info)       
+
+The folks who put together Antvenoms newest packs were gracious enough to include a license       
+to use the textures for a project like this, so I did use a few and added credit and Vattic's license.   
+
 Old removed things:   
 <s>
   I: As of 1.16 the pigman and a few minor textures have been swapped for   
