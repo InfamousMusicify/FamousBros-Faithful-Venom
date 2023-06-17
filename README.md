@@ -26,7 +26,7 @@ The folks who put together Antvenoms newest packs were gracious enough to includ
 to use the textures for a project like this, so I did use a few and added credit and Vattic's license.     
 
 This project is now a stripped down addon to Antvenom or mullak99's (or any vanilla 32x pack really) Resource packs.     
-It adds Skits UI / Dark UI, Antvenoms grass color grading, select alpha sounds for nostalgia, custon nylium sides,    
+It adds Skits UI / Dark UI, Antvenoms grass color grading, select alpha sounds for nostalgia, custon nylium sides, and a few custom textures.
 
 __Note:  
 All Versions before and including `FB-FV_x32_1.18_R4` contain a full texture set and are not recomended due to copywrite/credit issues.      
