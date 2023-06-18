@@ -2,7 +2,7 @@
 
 
 ### [🔗1.20](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/download/1.20-r3/FB-FV_x32_1.20-r3.zip)
-### [🔗1.19-1.19.2](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/download/1.19.2-r1/FB-FV_x32_1.19.2-r3.zip) - [🔗1.19.3](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/download/1.19.3-r5/FB-FV_x32_1.19.3-r5.zip) - [🔗1.19.4](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/download/1.19.4-r4/FB-FV_x32_1.19.4-r4.zip)
+### [🔗1.19-1.19.2](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/download/1.19.2-r1/FB-FV_x32_1.19.2-r3.zip) - [🔗1.19.3](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/download/1.19.3-r6/FB-FV_x32_1.19.3-r6.zip) - [🔗1.19.4](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/download/1.19.4-r5/FB-FV_x32_1.19.4-r5.zip)
 
 ### [🔗1.18](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/download/1.18_R-2/FB-FV_x32_1.18_R2.zip)
 
