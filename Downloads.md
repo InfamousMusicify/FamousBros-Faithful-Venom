@@ -1,4 +1,4 @@
-## [Releases](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/) - [Tags](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/tags/) - [Branches](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/branches) - [Archive](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/tag/Archive)    
+## [Releases](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/) - [Tags](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/tags/) - [Branches](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/branches) - [Archive](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/tag/Archive)     
 
 
 ### [🔗1.20](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/releases/download/1.20-r5/FB-FV_x32_1.20-r5.zip)
