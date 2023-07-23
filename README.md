@@ -11,7 +11,7 @@ Check [Pack Contents](https://github.com/InfamousMusicify/FamousBros-Faithful-Ve
 # [🔗Downloads🔗](https://github.com/InfamousMusicify/FamousBros-Faithful-Venom/blob/master/Downloads.md)
 
 ### Download one of these resource packs as well:  
-### [Antvenom](https://antvenom.com/files) - [mullak99](https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x)      
+### [Antvenom](https://antvenom.com/files) - [32x Jappa](https://github.com/ClassicFaithful/32x-Jappa) - [mullak99](https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x)      
 #### [ClassicFaithful](https://github.com/classicfaithful) - [Compliance](https://compliancepack.net/) - [Emulated Vattic](https://github.com/emulatedvattic)      
 
 ### [How to Install Resource Packs](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack)   
